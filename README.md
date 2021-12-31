@@ -7,7 +7,7 @@ Liked it? Please give a ⭐️ to build this 💪 stronger.
 
 <p align="center">
     <a href="https://medium.com/analytics-vidhya/how-to-scrape-all-types-of-websites-with-python-part-1-552aafd93884" target="blank"/>
-        <img src="./images/SPIDERS.png" alt="Plot" />
+        <img src="./images/SPIDERS.jfif" alt="Plot" />
     </a>
 </p>
 
